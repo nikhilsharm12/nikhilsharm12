@@ -1,0 +1,4 @@
+- 👋 Hi, I’m nikhilsharma
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on big coder
